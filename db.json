@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "40",
+      "firstName": "Alex",
+      "age": 40,
+      "companyId": 2
+    },
+    {
+      "id": "41",
+      "firstName": "Barney",
+      "age": 42,
+      "companyId": "1"
+    },
+    {
+      "firstName": "喇叭詹",
+      "age": 23,
+      "id": "ej6TJGI",
+      "companyId": "1"
+    },
+    {
+      "firstName": "雷霸龍",
+      "age": 30,
+      "id": "baQdw7_"
+    },
+    {
+      "firstName": "chris",
+      "age": 30,
+      "id": "lrbhusv"
+    },
+    {
+      "firstName": "adma",
+      "age": 30,
+      "companyId": "2",
+      "id": "JgP_Chy"
+    }
+  ],
+  "posts": [
+    {
+      "pid": "0",
+      "uid": "23",
+      "title": "first post",
+      "content": "HI this is my first post"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    }
+  ]
+}
